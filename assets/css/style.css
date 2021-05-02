@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*whole body background color*/
 body {
     background-color: #d9dcd6;
 }
-
+/*header styles*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* navigation bar styles*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/*end of nav styles*/
 /*Text Stles*/
 a {
     color: #ffffff;
@@ -49,6 +50,7 @@ a {
 p {
     font-size: 16px;
 }
+/* hero styles*/
 .hero {
     height: 800px;
     width: 100%;
@@ -84,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* right side collum styles*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +102,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*end of right side collum styles*/
+/* 3 rows styles*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,7 +121,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* end of 3 rows styles*/
+/* footer styles*/
 footer {
     padding: 30px;
     clear: both;
@@ -126,6 +130,7 @@ footer {
     text-align: center;
 }
 
-.footer h3 {
+footer h3 {
     font-size: 20px;
 }
+/* end of footer styles*/
